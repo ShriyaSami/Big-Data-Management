@@ -29,11 +29,11 @@ Chosen Dataset: Catch The Pink Flamingo dataset.
 
 ## Data Pre-Processing  
 Data pre-processing involved:
-•	Data integration
-•	Data cleaning
-•	Data transformations
-•	Feature engineering
-•	Feature selection
+* Data integration
+* Data cleaning
+* Data transformations
+* Feature engineering
+* Feature selection
 
 ## Machine Learning  
 Data splitting: 70:30 train-test split. 

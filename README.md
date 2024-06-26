@@ -1,7 +1,7 @@
-# Big-Data-Management
-**This project implements a big data management solution involving data exploration, machine learning and graph analysis. The code for this is available in the Big-Data-Management-Notebook.ipynb file.**
+# Big Data Management Solution  
+**This project implements a big data management solution involving data exploration, machine learning and graph analysis. The code for this is available in the Big-Data-Management-Notebook.ipynb file.**  
 
-**Dataset Identification**  
+## Dataset Identification  
 Chosen Dataset: Catch The Pink Flamingo dataset. 
 * Multi-user game where aim is to catch pink flamingos as they pop up on a world map.
 * Players can play individually to create their own team or, join an existing team.

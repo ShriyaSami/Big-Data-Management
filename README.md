@@ -48,17 +48,17 @@ The confusion matrix below shows how the random forest classifier predicted each
 
 ## Graph Analysis (with Neo4j)  
 1. Analysing the relationship between Users creating TeamChatSessions.  
-From the analysis of the relationship between Users creating TeamChatSessions, it is evident that one user will create join and leave a TeamChatSession multiple times.
+From the analysis of the relationship between Users creating TeamChatSessions, it is evident that one user will create, join, and leave a TeamChatSession multiple times.
 ![Analysing the relationship between Users creating TeamChatSessions](https://github.com/ShriyaSami/Big-Data-Management/blob/ea2b6fcc97af634d40c62b5e6889040f2f8bc2ad/Graph%20Analysis%20-%20Users%20creating%20TeamChatSessions%20.png)
 
-3. Analysing the relationship between Teams participating in TeamChatSessions.  
+2. Analysing the relationship between Teams participating in TeamChatSessions.  
 The analysis on the relationship between Teams participating in TeamChatSessions shows that a team participates in a single TeamChatSession.
 ![Analysing the relationship between Teams participating in TeamChatSessions](https://github.com/ShriyaSami/Big-Data-Management/blob/ea2b6fcc97af634d40c62b5e6889040f2f8bc2ad/Graph%20Analysis%20-%20Teams%20participating%20in%20TeamChatSessions.png)
 
-5. Analysing the relationship between Users joining TeamChatSessions.  
+3. Analysing the relationship between Users joining TeamChatSessions.  
 From the analysis on the relationship between Users joining TeamChatSessions, it is shown that multiple users will join a TeamChatSession multiple times. 
 ![Analysing the relationship between Users joining TeamChatSessions](https://github.com/ShriyaSami/Big-Data-Management/blob/ea2b6fcc97af634d40c62b5e6889040f2f8bc2ad/Graph%20Analysis%20-%20Users%20joining%20TeamChatSessions.png)
 
-6. Analysing the relationship between Users leaving TeamChatSessions.  
+4. Analysing the relationship between Users leaving TeamChatSessions.  
 The analysis of the relationship between Users leaving TeamChatSessions shows that users will leave (and join) multiple TeamChatSessions, presumably when they move/join teams. 
 ![Analysing the relationship between Users leaving TeamChatSessions](https://github.com/ShriyaSami/Big-Data-Management/blob/ea2b6fcc97af634d40c62b5e6889040f2f8bc2ad/Graph%20Analysis%20-%20Users%20leaving%20TeamChatSessions.png)
